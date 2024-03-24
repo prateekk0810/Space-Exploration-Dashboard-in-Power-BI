@@ -1,0 +1,565 @@
+Name,Sex,Military/Civilian
+"Gagarin, Yuri",male,military
+"Titov, Gherman",male,military
+"Glenn, John H., Jr.",male,military
+"Carpenter, M. Scott",male,military
+"Nikolayev, Andriyan",male,military
+"Popovich, Pavel",male,military
+"Schirra, Walter M., Jr.",male,military
+"Cooper, L. Gordon, Jr.",male,military
+"Bykovsky, Valery",male,military
+"Tereshkova, Valentina",female,military
+"Komarov, Vladimir",male,military
+"Feoktistov, Konstantin",male,civilian
+"Yegorov, Boris",male,civilian
+"Belyayev, Pavel",male,military
+"Leonov, Aleksei",male,military
+"Grissom, Virgil I.",male,military
+"Young, John W.",male,military
+"McDivitt, James A.",male,military
+"White, Edward H., II",male,military
+"Conrad, Charles, Jr.",male,military
+"Borman, Frank",male,military
+"Lovell, James A., Jr.",male,military
+"Stafford, Thomas P.",male,military
+"Armstrong, Neil A.",male,civilian
+"Scott, David R.",male,military
+"Cernan, Eugene A.",male,military
+"Collins, Michael",male,civilian
+"Gordon, Richard F., Jr.",male,military
+"Aldrin, Edwin Eugene, Jr.",male,military
+"Eisele, Donn F.",male,military
+"Cunningham, Ronnie Walter",male,civilian
+"Savinykh, Viktor",male,civilian
+Jugderdemidiin Gurragchaa,male,civilian
+"Crippen, Robert L.",male,military
+Dumitru Prunariu,male,civilian
+"Engle, Joe H.",male,military
+"Truly, Richard H.",male,military
+"Fullerton, Charles G.",male,military
+"Berezovoy, Anatoly",male,military
+"Chrétien, Jean-Loup",male,military
+"Hartsfield, Henry W., Jr.",male,military
+"Serebrov, Aleksandr",male,civilian
+"Beregovoi, Georgi",male,military
+"Anders, William Alison",male,civilian
+"Shatalov, Vladimir",male,military
+"Volynov, Boris",male,military
+"Yeliseyev, Aleksei",male,civilian
+"Khrunov, Yevgeny",male,military
+"Schweickart, Russell L.",male,civilian
+"Shonin, Georgi",male,military
+"Kubasov, Valeri",male,military
+"Filipchenko, Anatoly",male,military
+"Volkov, Vladislav",male,military
+"Gorbatko, Viktor",male,military
+"Bean, Alan Lavern",male,military
+"Swigert, John L., Jr.",male,civilian
+"Haise, Fred W., Jr.",male,civilian
+"Sevastyanov, Vitali",male,civilian
+"Shepard, Alan B., Jr.",male,military
+"Roosa, Stuart A.",male,military
+"Mitchell, Edgar D.",male,military
+"Rukavishnikov, Nikolai",male,military
+"Dobrovolski, Georgi",male,military
+"Patsayev, Viktor",male,civilian
+"Worden, Alfred M.",male,military
+"Irwin, James B.",male,military
+"Mattingly, Thomas K., II",male,military
+"Duke, Jr. Charles Moss",male,military
+"Evans, Ronald E.",male,military
+"Schmitt, Harrison H.",male,civilian
+"Weitz, Paul J.",male,military
+"Kerwin, Joseph P.",male,military
+"Lousma, Jack R.",male,military
+"Garriott, Owen K.",male,civilian
+"Lazarev, Vasili",male,military
+"Makarov, Oleg",male,civilian
+"Carr, Gerald P.",male,military
+"Pogue, William R.",male,military
+"Gibson, Edward G.",male,civilian
+"Klimuk, Pyotr",male,military
+"Lebedev, Valentin",male,civilian
+"Artyukhin, Yuri",male,military
+"Sarafanov, Gennadi",male,military
+"Dyomin, Lev",male,military
+"Gubarev, Aleksei",male,military
+"Grechko, Georgi",male,civilian
+"Brand, Vance D.",male,civilian
+"Slayton, Donald K.",male,civilian
+"Zholobov, Vitali",male,military
+"Aksyonov, Vladimir",male,military
+"Zudov, Vyacheslav",male,military
+"Rozhdestvensky, Valery",male,military
+"Glazkov, Yuri",male,military
+"Kovalyonok, Vladimir",male,military
+"Ryumin, Valery",male,civilian
+"Romanenko, Yuri",male,military
+"Dzhanibekov, Vladimir",male,military
+Vladimir Remek,male,military
+"Ivanchenkov, Aleksandr",male,military
+Miroslaw Hermaszewske,male,military
+"Jahn, Sigmund",male,military
+"Lyakhov, Vladimir",male,military
+Georgi Ivanov,male,military
+"Popov, Leonid",male,military
+Bertalan Farkas,male,civilian
+"Malyshev, Yuri",male,military
+Pham Tuan,male,military
+Arnaldo Tamayo Mendez,male,military
+"Kizim, Leonid",male,military
+"Strekalov, Gennadi",male,civilian
+"Savitskaya, Svetlana",female,civilian
+"Overmyer, Robert F.",male,military
+"Allen, Joseph P.",male,civilian
+"Lenoir, William B.",male,civilian
+"Bobko, Karol J.",male,military
+"Peterson, Donald H.",male,military
+"Musgrave, Franklin Story",male,civilian
+"Titov, Vladimir",male,military
+"Hauck, Frederick H.",male,military
+"Fabian, John M.",male,military
+"Ride, Sally K.",female,civilian
+"Thagard, Norman E.",male,civilian
+"Aleksandrov, Aleksandr",male,civilian
+"Brandenstein, Daniel C.",male,military
+"Bluford, Guion S., Jr.",male,military
+"Gardner, Dale A.",male,military
+"Thornton, William E.",male,civilian
+"Shaw, Brewster H., Jr.",male,military
+"Parker, Robert A. R.",male,civilian
+"Lichtenberg, Byron Kurt",male,military
+"Merbold, Ulf",male,civilian
+"Gibson, Robert L.",male,military
+"McNair, Ronald E.",male,civilian
+"Stewart, Robert L.",male,military
+"McCandless, Bruce, II",male,military
+"Solovyov, Vladimir",male,civilian
+"Atkov, Oleg",male,civilian
+Rakesh Sharma,male,military
+"Scobee, Francis R.",male,military
+"Hart, Terry J.",male,civilian
+"Van Hoften, James D. A.",male,civilian
+"Nelson, George D.",male,civilian
+"Volk, Igor",male,military
+"Coats, Michael L.",male,military
+"Mullane, Richard M.",male,military
+"Hawley, Steven A.",male,civilian
+"Resnik, Judith A.",female,civilian
+"Walker, Charles David",male,civilian
+"McBride, Jon A.",male,military
+"Sullivan, Kathryn D.",female,civilian
+"Leestma, David C.",male,military
+"Scully-Power, Paul Desmond",male,civilian
+"Garneau, Marc Joseph Jean-Pierre",male,military
+"Walker, David Mathieson",male,military
+"Fisher, Anna L.",female,civilian
+"Shriver, Loren J.",male,military
+"Onizuka, Ellison S.",male,military
+"Buchli, James F.",male,military
+"Payton, Gary Eugene",male,military
+"Williams, Donald E.",male,military
+"Seddon, Margaret Rhea",female,civilian
+"Griggs, S. David",male,civilian
+"Hoffman, Jeffrey A.",male,civilian
+"Garn, Edwin Jacob",male,military
+"Gregory, Frederick D.",male,military
+"Lind, Don L.",male,military
+"Lodewijk, van der Berg",male,civilian
+"Wang, Taylor Gun-Jin",male,civilian
+"Creighton, John O.",male,military
+"Nagel, Steven R.",male,military
+"Lucid, Shannon W.",female,civilian
+"Baudry, Patrick",male,military
+"Al-saud, Sultan bin Salman",male,civilian
+"Bridges, Roy D., Jr.",male,military
+"Henize, Karl G.",male,civilian
+"England, Anthony W.",male,civilian
+"Acton, Loren Wilbur",male,civilian
+"Bartoe, John-David Francis",male,civilian
+"Covey, Richard O.",male,military
+"Lounge, John M.",male,civilian
+"Fisher, William F.",male,civilian
+"Vasyutin, Vladimir",male,military
+"Volkov, Alexander",male,military
+"Grabe, Ronald J.",male,military
+"Hilmers, David C.",male,military
+"Pailes, William Arthur",male,military
+"Dunbar, Bonnie J.",female,civilian
+"Furrer, Reinhard Alfred",male,civilian
+"Messerschmid, Ernst Willi",male,military
+"Ockels, Wubbo Johannes",male,civilian
+"O'Connor, Bryan D.",male,military
+"Ross, Jerry L.",male,military
+"Cleave, Mary L.",female,civilian
+"Spring, Sherwood C.",male,military
+"Neri Vela, Rodolfl",male,civilian
+"Bolden, Charles F., Jr.",male,military
+"Chang-Diaz, Franklin R.",male,civilian
+"Cenker, Robert Joseph",male,civilian
+"Nelson, William Clarence",male,civilian
+"Smith, Michael John",male,military
+"Jarvis, Gregory Bruce",male,civilian
+"McAuliffe, Sharon Christa Corrigan",female,civilian
+"Laveykin, Aleksandr",male,civilian
+"Viktorenko, Aleksandr",male,military
+"Faris, M. Achmed",male,military
+"Manarov, Musa",male,military
+"Levchenko, Anatoli",male,military
+"Solovyev, Anatoly",male,military
+"Polyakov, Valeri",male,civilian
+"Mohmand, Abdul Ahad",male,military
+"Krikalev, Sergei",male,civilian
+"Gardner, Guy S.",male,military
+"Shepherd, William M.",male,military
+"Blaha, John E.",male,military
+"Springer, Robert C.",male,military
+"Bagian, James P.",male,civilian
+"Lee, Mark C.",male,military
+"Richards, Richard N.",male,military
+"Adamson, James C.",male,military
+"Brown, Mark N.",male,military
+"McCulley, Michael J.",male,military
+"Baker, Ellen S.",female,civilian
+"Carter, Manley Lanier, Jr.",male,military
+"Thornton, Kathryn C.",female,civilian
+"Wetherbee, James D.",male,military
+"Ivins, Marsha S.",female,civilian
+"Low, G. David",male,civilian
+"Balandin, Aleksandr",male,civilian
+"Casper, John H.",male,military
+"Thuot, Pierre J.",male,military
+"Manakov, Gennadi",male,military
+"Cabana, Robert D.",male,military
+"Melnick, Bruce E.",male,military
+"Akers, Thomas D.",male,military
+"Culbertson, Frank L., Jr.",male,military
+"Meade, Carl J.",male,military
+"Gemar, Charles D.",male,military
+"Durrance, Samuel Thornton",male,civilian
+"Parise, Ronald Anthony",male,civilian
+"Afanasyev, Viktor Mikhaylovich",male,military
+"Akiyama, Toyohiro",male,civilian
+"Cameron, Kenneth D.",male,military
+"Godwin, Linda M.",female,civilian
+"Apt, Jerome",male,civilian
+"Hammond, L. Blaine, Jr.",male,military
+"Harbaugh, Gregory J.",male,civilian
+"McMonagle, Donald R.",male,military
+"Veach, Charles Lacy",male,civilian
+"Hieb, Richard J.",male,civilian
+"Artsebarsky, Anatoly",male,military
+Helen Sharman,female,civilian
+"Gutierrez, Sidney M.",male,military
+"Jernigan, Tamara E.",female,civilian
+"Gaffney, Andrew",male,civilian
+"Hughes-Fulford, Millie Elizabeth",female,civilian
+"Baker, Michael A.",male,military
+"Reightler, Kenneth S., Jr.",male,military
+"Aubakirov, Toktar",male,military
+"Viehbock, Franz",male,civilian
+"Henricks, Terence T.",male,military
+"Voss, James S.",male,military
+"Runco, Mario, Jr.",male,military
+"Hennen, Thomas John",male,military
+"Oswald, Stephen S.",male,military
+"Readdy, William F.",male,civilian
+"Bondar, Roberta Lynn",female,civilian
+"Kaleri, Aleksandr",male,civilian
+"Flade, Klaus-Dietrich",male,military
+"Duffy, Brian",male,military
+"Foale, C. Michael",male,civilian
+"Frimout, David",male,civilian
+"Chilton, Kevin P.",male,military
+"Bowersox, Kenneth D.",male,military
+"DeLucas, Lawrence James",male,civilian
+"Trinh, Eugene Huu-Chau",male,civilian
+"Avdeyev, Sergei",male,civilian
+"Tognini, Michel",male,military
+"Allen, Andrew M.",male,military
+"Nicollier, Claude",male,civilian
+Franco Malerba,male,civilian
+"Brown, Curtis L., Jr.",male,military
+"Davis, Nancy Jan",female,civilian
+"Jemison, Mae C.",female,civilian
+"Mohri, Mamoru",male,civilian
+Steven MacLean,male,military
+"Clifford, Michael R.",male,military
+"Helms, Susan J.",female,military
+"Poleshchuk, Aleksandr",male,military
+"Cockrell, Kenneth D.",male,civilian
+"Ochoa, Ellen",female,civilian
+"Precourt, Charles J., Jr.",male,military
+"Harris, Bernard A., Jr.",male,civilian
+"Walter, Ulrich",male,civilian
+"Schlegel, Hans",male,civilian
+"Currie, Nancy J.",female,military
+"Wisoff, Peter J. K.",male,civilian
+"Voss, Janice E.",female,civilian
+"Tsibliyev, Vasili",male,military
+"Haigneré, Jean-Pierre",male,military
+"Newman, James H.",male,civilian
+"Bursch, Daniel W.",male,military
+"Walz, Carl E.",male,military
+"Searfoss, Richard A.",male,military
+"McArthur, William S., Jr.",male,military
+"Wolf, David A.",male,civilian
+"Fettman, Martin Joseph",male,civilian
+Yuri Vladimirovich Usachyov,male,military
+"Sega, Ronald M.",male,civilian
+"Jones, Thomas D.",male,civilian
+"Malenchenko, Yuri",male,military
+"Musabayev, Talgat",male,military
+"Halsell, James D., Jr.",male,military
+"Chiao, Leroy",male,civilian
+"Thomas, Donald A.",male,civilian
+"Mukai, Chiaki",female,civilian
+"Linenger, Jerry M.",male,military
+"Wilcutt, Terrence W.",male,military
+"Smith, Steven L.",male,civilian
+"Kondakova, Yelena V.",female,civilian
+"Tanner, Joseph R.",male,civilian
+"Clervoy, Jean-François",male,military
+"Parazynski, Scott E.",male,civilian
+"Collins, Eileen M.",female,military
+"Gregory, William G.",male,military
+"Grunsfeld, John M.",male,civilian
+"Lawrence, Wendy B.",female,military
+"Dezhurov, Vladimir N.",male,military
+"Budarin, Nikolai",male,civilian
+Kregel Kevin R.,male,civilian
+"Weber, Mary E.",female,civilian
+"Gidzenko, Yuri",male,military
+"Reiter, Thomas",male,military
+"Gernhardt, Michael L.",male,civilian
+"Rominger, Kent V.",male,military
+"Coleman, Catherine G.",female,military
+"Lopez-Alegria, Michael E.",male,military
+"Leslie, Fred Weldon",male,civilian
+"Sacco, Albert Jr.",male,civilian
+Chris Hadfield,male,military
+"Jett, Brent W.",male,military
+"Scott, Winston E.",male,military
+"Wakata, Koichi",male,civilian
+"Barry, Daniel T.",male,civilian
+"Onufrienko, Yuri",male,military
+"Horowitz, Scott J.",male,military
+"Cheli, Maurizio",male,military
+"Guidoni, Umberto",male,civilian
+"Thomas, Andrew S. W.",male,civilian
+"Linnehan, Richard M.",male,civilian
+"Brady, Charles E., Jr.",male,military
+"Favier, Jean-Jacques",male,civilian
+Robert Thirsk,male,civilian
+"Korzun, Valery",male,military
+"André-Deshays, Claudie (Haigneré)",female,civilian
+"Lazutkin, Aleksandr",male,civilian
+"Ewald, Reinhold",male,civilian
+"Kilrain-Still, Susan L.",female,military
+"Crouch, Roger Keith",male,civilian
+"Linteris, Gregory Thomas",male,civilian
+"Noriega, Carlos I.",male,military
+"Lu, Edward T.",male,civilian
+"Vinogradov, Pavel",male,civilian
+"Curbeam, Robert L., Jr.",male,military
+"Robinson, Stephen K.",male,civilian
+Bjarni Tryggvason,male,civilian
+"Bloomfield, Michael J.",male,military
+"Lindsey, Steven W.",male,military
+"Chawla, Kalpana",female,civilian
+"Doi, Takao",male,civilian
+"Kadenyuk, Leonid",male,civilian
+"Edwards, Joe F., Jr.",male,military
+"Reilly, James F.",male,civilian
+"Anderson, Michael P.",male,military
+"Sharipov, Salizhan",male,military
+"Eyharts, Léopold",male,military
+"Altman, Scott D.",male,military
+"Hire, Kathryn P.",female,military
+"Williams, Dafydd Rhys",male,civilian
+"Buckey, Jay Clark Jr.",male,civilian
+"Pawelczyk, James Anthony",male,civilian
+"Gorie, Dominic L.",male,military
+"Kavandi, Janet L.",female,civilian
+"Padalka, Gennady",male,military
+"Baturin, Yuri",male,civilian
+"Duque, Pedro",male,civilian
+"Sturckow, Frederick W.",male,military
+"Bella, Ivan",male,military
+"Husband, Rick D.",male,military
+"Payette, Julie",female,civilian
+"Tokarev, Valeri",male,military
+"Ashby, Jeffrey S.",male,military
+"Kelly, Scott J.",male,military
+"Thiele, Gerhard",male,civilian
+"Zalyotin, Sergei",male,military
+"Williams, Jeffrey N.",male,military
+"Mastracchio, Richard A.",male,civilian
+"Burbank, Daniel C.",male,military
+"Morukov, Boris",male,civilian
+"Melroy, Pamela A.",female,military
+"Polansky, Mark L.",male,civilian
+"Kelly, James M.",male,military
+"Richards, Paul W.",male,civilian
+"Phillips, John L.",male,civilian
+"Lonchakov, Yuri",male,military
+"Tito, Dennis Anthony",male,civilian
+"Hobaugh, Charles O.",male,military
+"Forrester, Patrick G.",male,military
+"Tyurin, Mikhail",male,military
+"Kozeyev, Konstantin",male,civilian
+"Kelly, Mark E.",male,military
+"Tani, Daniel M.",male,civilian
+"Carey, Duane G.",male,military
+"Massimino, Michael J.",male,civilian
+"Frick, Stephen N.",male,military
+"Walheim, Rex J.",male,military
+"Morin, Lee M.",male,military
+"Vittori, Roverto",male,military
+"Shuttleworth, M. Richard",male,civilian
+"Lockhart, Paul S.",male,military
+"Perrin, Philippe",male,military
+"Whitson, Peggy A.",female,civilian
+"Treshchov, Sergei",male,civilian
+"Magnus, Sandra H.",female,civilian
+"Sellers, Piers J.",male,civilian
+"Yurchikhin, Fyodor",male,civilian
+"De Winne, Frank",male,military
+"Herrington, John B.",male,military
+"Pettit, Donald R.",male,civilian
+"McCool, William C.",male,military
+"Brown, David M.",male,military
+"Clark, Laurel B.",female,military
+"Ramon, Ilan",male,military
+"Yang, Liwei",male,military
+"Fincke, E. Michael",male,military
+"Kuipers, Andre",male,civilian
+"Shargin, Yuri",male,military
+"Noguchi, Soichi",male,civilian
+"Camarda, Charles J.",male,civilian
+"Olsen, Gregory Hammond",male,civilian
+"Fei, Junlong",male,military
+Nie Haisheng,male,military
+"Pontes, Marcos Cesar",male,military
+"Fossum, Michael E.",male,civilian
+"Nowak, Lisa M.",female,military
+"Wilson, Stephanie D.",female,civilian
+"Ferguson, Christopher J.",male,military
+"Stefanyshyn-Piper, Heidemarie M.",female,military
+"Ansari, Anousheh",female,civilian
+"Oefelein, William A.",male,military
+"Patrick, Nicholas J. M.",male,civilian
+Christer Fuglesang,male,civilian
+"Higginbotham, Joan E.",female,civilian
+"Williams, Sunita L.",female,military
+"Kotov, Oleg",male,military
+"Simonyi, Charles (Karoly)",male,civilian
+"Archambault, Lee J.",male,military
+"Swanson, Steven R.",male,civilian
+"Olivas, John D.",male,civilian
+"Anderson, Clayton C.",male,civilian
+"Caldwell, Tracy E.",female,civilian
+"Drew, Alvin Benjamin",male,military
+"Morgan, Barbara R.",female,civilian
+"Shukor, Sheikh Muszaphar",male,civilian
+"Zamka, George D.",male,military
+"Wheelock, Douglas H.",male,military
+"Nespoli, Paolo A.",male,military
+"Poindexter, Alan G.",male,military
+"Melvin, Leland D.",male,civilian
+"Love, Stanley G.",male,civilian
+"Johnson, Gregory H.",male,military
+"Behnken, Robert L.",male,military
+"Foreman, Michael J.",male,military
+"Reisman, Garrett E.",male,civilian
+"Volkov, Sergei",male,military
+"Kononenko, Oleg D.",male,military
+"Yi, Soyeon (Lee So-hyun)",female,civilian
+"Ham, Kenneth T.",male,military
+"Nyberg, Karen L.",female,civilian
+"Garan, Ronald J., Jr.",male,military
+"Hoshide, Akihiko",male,civilian
+"Chamitoff, Gregory",male,civilian
+"Zhai, Zhigang",male,military
+"Liu, Boming",male,military
+"Jing, Haipeng",male,military
+"Garriott, Richard Allen",male,civilian
+"Boe, Eric A.",male,military
+"Bowen, Stephen G.",male,military
+"Kimbrough, Robert S.",male,military
+"Antonelli, Dominic A.",male,military
+"Acaba, Joseph M.",male,civilian
+"Arnold, Richard R., II",male,civilian
+"Barratt, Michael R.",male,civilian
+"Johnson, Gregory C.",male,civilian
+"Good, Michael T.",male,military
+"McArthur, K. Megan",female,civilian
+"Feustel, Andrew J.",male,civilian
+"Romanenko, Roman",male,military
+"Hurley, Douglas G.",male,military
+"Cassidy, Christopher J.",male,military
+"Marshburn, Thomas H.",male,military
+"Kopra, Timothy L.",male,military
+"Ford, Kevin A.",male,military
+"Hernandez, Jose M.",male,civilian
+"Stott, Nicole P.",female,civilian
+"Surayev, Maksim",male,military
+Guy Laliberte,male,civilian
+"Wilmore, Barry E.",male,military
+"Bresnik, Randolph J.",male,military
+"Satcher, Robert L.",male,civilian
+"Creamer, Timothy J.",male,military
+"Virts, Terry W., Jr.",male,military
+"Skvortsov, Aleksandr Jr.",male,military
+"Korniyenko, Mikhail",male,civilian
+"Dutton, James P.",male,military
+"Metcalf-Lindenburger, Dorothy M.",female,civilian
+"Yamazaki, Naoko",female,civilian
+"Walker, Shannon",female,civilian
+"Skripochka, Oleg",male,civilian
+"Kondratyev, Dmitri",male,military
+"Samokutyayev, Aleksandr",male,military
+"Borisenko, Andrei",male,military
+"Furukawa, Satoshi",male,civilian
+"Shkaplerov, Anton",male,military
+"Ivanishin, Anatoli",male,military
+"Revin, Sergei",male,civilian
+"Liu, Wang",male,military
+"Liu, Yang",female,military
+"Novitski, Oleg",male,military
+"Tarelkin, Yevgeni",male,military
+"Misurkin, Aleksandr",male,military
+"Parmitano, Luca",male,military
+"Zhang, Xiaoguang",male,military
+"Wang, Yapi",male,military
+"Ryazanski, Sergei",male,civilian
+"Hopkins, Michael Scott",male,military
+"Artemyev, Oleg",male,military
+"Wiseman, Gregory Reid",male,military
+"Gerst, Alexander",male,civilian
+"Serova, Yelena",female,civilian
+"Cristofretti, Samantha",female,military
+"Yui, Kimiya",male,military
+"Lindgren, Kjell Norwood",male,military
+"Mogensen, Andreas",male,civilian
+Aidyn (Aydyn) Akanovich Aimbetov,male,military
+"Peake, Timothy Nigel",male,military
+"Ovchinin, Aleksey",male,military
+"Onishi, Takuya",male,civilian
+"Rubins, Kathleen",female,civilian
+"Chen, Dong",male,military
+"Ryzhikov, Sergey",male,military
+"Pesquet, Thomas",male,civilian
+"Fischer, Jack",male,military
+"Vande Hei, Mark",male,military
+"Tingle, Scott",male,military
+"Kanai, Norishige",male,civilian
+"Prokopyev, Sergei",male,military
+"Auñón-Chancellor, Serena",female,civilian
+"Hague, Tyler",male,military
+"Saint-Jaques, David",male,civilian
+"McClain, Anne Charlotte",female,military
+"Koch, Christina",female,civilian
+"Morgan, Andrew",male,military
+"Meir, Jessica",female,civilian
+"Al Mansoori, Hazzaa",male,military
